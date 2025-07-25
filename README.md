@@ -20,7 +20,7 @@ Minha missão é transformar o mundo com a tecnologia, criando soluções inteli
 Recentemente, fui entrevistada pela **Revista .br – Ano 14 | 2024 | Edição 20**, onde compartilhei minha visão sobre **Segurança nas Redes** e a importância de um ambiente digital seguro e confiável. Ficou curioso(a) para saber mais sobre o que discutimos? Você pode conferir a entrevista completa [aqui](https://nic.br/publicacao/revista-br-ano-14-2024-edicao-20/).
 
 ### 🎓 Formação Acadêmica
-- **Engenharia de Computação (UNIVESP-SP)** – 10º Semestre
+- **Engenharia de Computação (UNIVESP-SP)**
 - **Gestão de TI**
 - **Extensão em **Álgebra Linear** (Universidade do Texas)
 - **Bacharelado em Tecnologia da Informação** com ênfase em IoT
