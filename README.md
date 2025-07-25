@@ -22,7 +22,7 @@ Recentemente, fui entrevistada pela **Revista .br – Ano 14 | 2024 | Edição 2
 ### 🎓 Formação Acadêmica
 - **Engenharia de Computação (UNIVESP-SP)**
 - **Gestão de TI**
-- **Extensão em **Álgebra Linear** (Universidade do Texas)
+- **Extensão em **Álgebra Linear** (Universidade do Texas)**
 - **Bacharelado em Tecnologia da Informação** com ênfase em IoT
 - **MBA em Marketing (ESALQ - USP)**
 
