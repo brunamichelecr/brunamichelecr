@@ -18,7 +18,7 @@ Sou líder da equipe Skywalkers 🤖💥, especialista em IoT, e agora mergulhan
 
 ## 🎯 Em Transição para Engenharia de Dados
 
-Minha missão é transformar o mundo com tecnologia — e agora com **dados**. Estou migrando para engenharia de dados com foco em:
+Minha missão é transformar o mundo com tecnologia, e agora com **dados**. Estou migrando para engenharia de dados com foco em:
 
 - Modelagem relacional e semiestruturada
 - Pipelines de ingestão e transformação de dados
