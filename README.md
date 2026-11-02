@@ -67,7 +67,7 @@ Fui entrevistada pela **Revista .br – Ano 14 | 2024 | Edição 20**, onde comp
 
 ## ⚙️ Experiência Técnica
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunamichelecr&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunamichelecr&layout=compact&theme=dark&cache_seconds=86400)
 
 - 💡 Internet das Coisas (IoT) – soluções conectadas e inteligentes  
 - 💻 Desenvolvimento com **C#, HTML, CSS, JavaScript**, Bootstrap e JQuery  
